@@ -17,8 +17,8 @@ python tracking/test.py rsfnet vitb_ep180 --dataset rgbt234 --threads 0 --num_gp
 
 
 ## Acknowledgments
-* The code is built based on [PyTracking](https://github.com/visionml/pytracking) library 
-Thanks for the [STARK](https://github.com/researchmm/Stark), Ostrack (https://github.com/botaoye/OSTrack) and [PyTracking](https://github.com/visionml/pytracking) library. 
+* The code is built based on [PyTracking](https://github.com/visionml/pytracking) library and some codes are borrowed from STARK and OSTRACK.
+* Thanks for the [STARK](https://github.com/researchmm/Stark), Ostrack (https://github.com/botaoye/OSTrack) and [PyTracking](https://github.com/visionml/pytracking) library. 
 
 
 
